@@ -30,12 +30,6 @@ public class CheckPulse {
         this.dbp = dbp;
     }
 
-    void setDbp(String dbp) {
-        throw new UnsupportedOperationException("Not supported yet."); 
-    }
-
-    void setSbp(String sbp) {
-        throw new UnsupportedOperationException("Not supported yet."); 
-    }
+   
     
 }
