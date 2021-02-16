@@ -1,14 +1,11 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * sbp is Systolic blood pressure (upper number) 
+ * dbp id Diastolic blood pressure (lower number)
+ * we can check pulse rate by sensors.
+ * if it is high a message can be send to guardian so action be taken.
  */
 package Pulse;
 
-/**
- *
- * @author ruchi
- */
 public class BloodPressure {
     
     int sbp,dbp;
