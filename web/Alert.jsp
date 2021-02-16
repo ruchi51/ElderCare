@@ -22,3 +22,4 @@ out.print(""+pulse.getSbp()+""+pulse.getDbp());
 <%@ include file="Rate.jsp" %> 
     </body>
 </html>
+/* Alert message could be send to the guardian.
