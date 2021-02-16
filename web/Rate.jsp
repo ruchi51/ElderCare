@@ -19,4 +19,4 @@
         </form>
     </body>
 </html>
-/
+/*A message send to the guardian when the blood pressure is high with systolic and diastolic.
